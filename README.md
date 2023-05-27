@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nasser</h1>
 <h3 align="center">AI Engineer</h3>
-<br>
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
-<br>
-
-
-<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/Ahmed__Nasser_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ahmed__Nasser_7" height="30" width="40" /></a>
