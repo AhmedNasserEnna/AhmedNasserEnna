@@ -11,19 +11,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedNasserEnna&show_icons=true&locale=en&layout=compact&theme=algolia&hide=&langs_count=100" alt="AhmedNasser" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedNasserEnna&show_icons=true&locale=en&layout=compact&theme=algolia&hide=" alt="AhmedNasser" /></p>
 
-</h3>
-<!-- <table align='center' >
-	<tr>
-		<td> -->
-			<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedNasserEnna&show_icons=true&locale=en&theme=radical" alt="AhmedNasser" height="139"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedNasserEnna&theme=radical" alt="AhmedNasser" height="139" /></p>
-<!-- 		</td>
-		<td> -->
-			
-<!-- 		</td> -->
-<!-- 	</tr>
-</table>
- -->
